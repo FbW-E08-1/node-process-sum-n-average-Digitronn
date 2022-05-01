@@ -1,0 +1,20 @@
+{
+  "name": "node-process-sum-n-average-Digitronn",
+  "version": "1.0.0",
+  "description": "Create a program that takes in an operation to perform (\"sum\" / \"avg\"), and a set of numbers as arguments. The program should print out the result of the calculation to the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E08-1/node-process-sum-n-average-Digitronn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E08-1/node-process-sum-n-average-Digitronn/issues"
+  },
+  "homepage": "https://github.com/FbW-E08-1/node-process-sum-n-average-Digitronn#readme"
+}
